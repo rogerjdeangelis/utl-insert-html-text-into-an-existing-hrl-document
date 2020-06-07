@@ -1,4 +1,4 @@
-# utl-insert-html-text-into-an-existing-hrl-document
+# utl-insert-html-text-into-an-existing-html-document
 Inset html text into an existing html document  
     Inset html text into an existing html document                                                          
                                                                                                             
